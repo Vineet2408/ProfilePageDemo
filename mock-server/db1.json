@@ -1,0 +1,126 @@
+{
+  "users": [
+    {
+      "profilePic":"https://cdn.ndtv.com/tech/images/gadgets/pikachu_hi_pokemon.jpg",
+      
+      "fullName": "Imani Roberston",
+      "firstName":"Imani",
+      "lastName":"Roberston",
+      "email": "imani.robt@workday.com",
+      "username": "John",
+      "designation": "Product Designer",
+      "organisation": "Workday",
+      "role": "Name Support Contact Security",
+      "loaction": "Pleasant ,CA",
+      "phone": "7084231486",
+      "communityDetails": [
+        {
+          "title": "rank",
+          "value": "Stragazer"
+        },
+        {
+          "title": "KudosGiven",
+          "value": "22"
+        },
+        {
+          "title": "KudosReceived",
+          "value": "22"
+        },
+        {
+          "title": "TotalSolutions",
+          "value": 3
+        },
+        {
+          "title": "TotalPosts",
+          "value": 15
+        }
+      ],
+      "linkedProfileName": "imaniRoberston",
+      "twitter": "imanidesigns",
+      "orgnizationUrl": "workday.com",
+      "shortInfo": "I am Product Designer at adobe. I am part of the company's newest acquisition: Adobe WorkFront",
+      "myProductAreas": [
+        {
+          "title": "HCM",
+          "values": [
+            "compensation",
+            "Benefits",
+            "Workday Payroll"
+          ]
+        },
+        {
+          "title": "Financials",
+          "values": [
+            "budgets",
+            "Revenue Management"
+          ]
+        },
+        {
+          "title": "SpendManagement",
+          "values": [
+            "Expenses",
+            "Expense"
+          ]
+        }
+      ],
+      "MyTopGroups": [
+        {
+          "title": "Acme Research Design Partner Group",
+          "userGroup": "Product User Group",
+          "lastActive": " Jun 1,2021",
+          "people": 242,
+          "calendarEngagement": 1
+        },
+        {
+          "title": "Acme Research Design Partner Group",
+          "userGroup": "Product User Group",
+          "lastActive": " May 29,2021",
+          "people": 242,
+          "calendarEngagement": 1
+        },
+        {
+          "title": "Acme Research Design Partner Group",
+          "userGroup": "Product User Group",
+          "lastActive": "Apr 17,2021",
+          "people": 242,
+          "calendarEngagement": 1
+        },
+        {
+          "title": "Really Long titled group name that could end up wrapping if people ae crazy about naming things",
+          "userGroup": "Product User Group",
+          "lastActive": " Feb 1,2021",
+          "people": 14,
+          "calendarEngagement": 0
+        }
+      ],
+      "Accredations": [
+        {
+          "title": "absence",
+          "type": "Workday Pro",
+          "taskDate": "oct 15,2020"
+        },
+        {
+          "title": "absence",
+          "type": "Workday Pro",
+          "taskDate": "oct 15,2020"
+        },
+        {
+          "title": "absence",
+          "type": "Workday Pro",
+          "taskDate": "oct 15,2020"
+        },
+        {
+          "title": "absence",
+          "type": "Workday Pro",
+          "taskDate": "oct 15,2020"
+        }
+      ],
+      "gender": "female",
+      "citizenship": "Indian",
+      "country": "india",
+      "state": "33",
+      "id": 60,
+      "recentBadges": ""
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "Workday Adelle Sans";
+  font-style: normal;
+  font-weight: 300;
+  src: url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Light.eot");
+  src: url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Light.woff") format("woff"), url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Light.woff2") format("woff2"), url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Light.svg") format("svg"); }
+@font-face {
+  font-family: "Workday Adelle Sans";
+  font-style: italic;
+  font-weight: 300;
+  src: url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Light_Italic.eot");
+  src: url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Light_Italic.woff") format("woff"), url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Light_Italic.woff2") format("woff2"), url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Light_Italic.svg") format("svg"); }
+@font-face {
+  font-family: "Workday Adelle Sans";
+  font-style: italic;
+  font-weight: 400;
+  src: url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Italic.eot");
+  src: url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Italic.woff") format("woff"), url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Italic.woff2") format("woff2"), url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Italic.svg") format("svg"); }
+@font-face {
+  font-family: "Workday Adelle Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Regular.eot");
+  src: url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Regular.woff") format("woff"), url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Regular.woff2") format("woff2"), url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Regular.svg") format("svg"); }
+@font-face {
+  font-family: "Workday Adelle Sans";
+  font-style: italic;
+  font-weight: 500;
+  src: url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Medium_Italic.eot");
+  src: url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Medium_Italic.woff") format("woff"), url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Medium_Italic.woff2") format("woff2"), url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Medium_Italic.svg") format("svg"); }
+@font-face {
+  font-family: "Workday Adelle Sans";
+  font-style: normal;
+  font-weight: 500;
+  src: url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Medium.eot");
+  src: url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Medium.woff") format("woff"), url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Medium.woff2") format("woff2"), url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Medium.svg") format("svg"); }
+@font-face {
+  font-family: "Workday Adelle Sans";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Bold.eot");
+  src: url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Bold.woff") format("woff"), url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Bold.woff2") format("woff2"), url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Bold.svg") format("svg"); }
+@font-face {
+  font-family: "Workday Adelle Sans";
+  font-style: italic;
+  font-weight: 700;
+  src: url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Bold_Italic.eot");
+  src: url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Bold_Italic.woff") format("woff"), url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Bold_Italic.woff2") format("woff2"), url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Bold_Italic.svg") format("svg"); }
+@font-face {
+  font-family: "Workday Adelle Sans";
+  font-style: normal;
+  font-weight: 800;
+  src: url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Extrabold.eot");
+  src: url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Extrabold.woff") format("woff"), url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Extrabold.woff2") format("woff2"), url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Extrabold.svg") format("svg"); }
+@font-face {
+  font-family: "Workday Adelle Sans";
+  font-style: normal;
+  font-weight: 900;
+  src: url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Heavy.eot");
+  src: url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Heavy.woff") format("woff"), url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Heavy.woff2") format("woff2"), url("https://static.workday.com/fonts/Workday_Adelle_Sans/Workday_Adelle_Sans-Heavy.svg") format("svg"); }
+

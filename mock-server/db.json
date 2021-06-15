@@ -1,0 +1,132 @@
+{
+  "users": [
+    {
+      "profilePic":"https://images.freeimages.com/images/large-previews/8ae/portrait-26-1432720.jpg",
+      
+      "fullName": "Imani Roberston",
+      "email": "imani.robt@workday.com",
+      "username": "iRobs345",
+      "designation": "Product Designer",
+      "organisation": "Workday",
+      "role": "Name Support Contact - Security",
+      "location": "Pleasanton ,CA",
+      "phone": "555-555-5555",
+      "communityDetails": [
+        {
+          "title": "Rank",
+          "value": "Stargazer"
+        },
+        {
+          "title": "Member Since",
+          "value": "Nov 2011"
+        },
+        {
+          "title": "Kudos Given",
+          "value": "22"
+        },
+        {
+          "title": "Kudos Received",
+          "value": "22"
+        },
+        {
+          "title": "Total Solutions",
+          "value": "3"
+        },
+        {
+          "title": "Total Posts",
+          "value": "15"
+        }
+      ],
+      "linkedProfileName": "imaniRoberston",
+      "twitter": "@imanidesigns",
+      "orgnizationUrl": "workday.com",
+      "shortInfo": "I am Product Designer at Adobe. I am part of the company's newest acquisition: Adobe WorkFront, a work management solution built for marketing enterprises.\nI transitioned from branding and marketing design into UX about five years ago. In the past I've worked with companies such as Disney, Sony pictures and Nickelodeon. I received my BFA in Graphic design at Brigham Young Univrsity Provo & Idaho in 2008.",
+      "myProductAreas": [
+        {
+          "title": "HCM",
+          "values": [
+            "Benefits - ",
+            "Compensation - ",
+            "Workday Payroll"
+          ]
+        },
+        {
+          "title": "Financials",
+          "values": [
+            "Budgets - ",
+            "Revenue Management"
+          ]
+        },
+        {
+          "title": "Spend Management",
+          "values": [
+            "Expenses"
+          ]
+        }
+      ],
+      "MyTopGroups": [
+        {
+          "title": "Acme Research Design Partner Group",
+          "userGroup": "Product User Group",
+          "lastActive": " Jun 1,2021",
+          "people": 242,
+          "calendarEngagement": 1
+        },
+        {
+          "title": "Acme Analytics",
+          "userGroup": "Product User Group",
+          "lastActive": " May 29,2021",
+          "people": 242,
+          "calendarEngagement": 1
+        },
+        {
+          "title": "Acme Analytics",
+          "userGroup": "Product User Group",
+          "lastActive": "Apr 17,2021",
+          "people": 242,
+          "calendarEngagement": 1
+        },
+        {
+          "title": "Really Long titled group name that could end up wrapping if people are crazy about naming things",
+          "userGroup": "Product User Group",
+          "lastActive": " Feb 1,2021",
+          "people": 14,
+          "calendarEngagement": 0
+        }
+      ],
+      "Accredations": [
+        {
+          "title": "Absence",
+          "type": "Workday Pro",
+          "taskDate": "Oct 15,2020"
+        },
+        {
+          "title": "Connectors and Document Transformation",
+          "type": "Workday Pro",
+          "taskDate": "Oct 15,2020"
+        },
+        {
+          "title": "Integrations Administration",
+          "type": "Workday Pro",
+          "taskDate": "Oct 15,2020"
+        },
+        {
+          "title": "Performance and Talent",
+          "type": "Workday Pro",
+          "taskDate": "Oct 15,2020"
+        },
+        {
+          "title": "Time Tracking",
+          "type": "Workday Pro",
+          "taskDate": "Oct 15,2020"
+        }
+      ],
+      "gender": "female",
+      "citizenship": "Indian",
+      "country": "india",
+      "state": "33",
+      "id": 60,
+      "recentBadges": ""
+    }
+  ]
+}
